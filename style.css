@@ -3,18 +3,27 @@ header{
 
 }
  .costa  {
-   position: absolute;
-   width: 298px;
-   height: 389px;
-   left: 0px;
-   top: 305px;
+   width: 230px;
+   height:100px;
+   left: 600px;
+   top: 105px;
  }
 
 .eu {
   position: absolute;
   width: 298px;
   height: 389px;
-  left: 0px;
-  top: 635px;
+  left: 800px;
+  top: 235px;
 }
-	
+
+.listacabecalho{
+display: flex;
+  text-align: center;
+  margin-left: 200px;
+ }
+  .lista{
+    text-align: center;
+    display: flex;
+    margin-left: 300px
+ }
